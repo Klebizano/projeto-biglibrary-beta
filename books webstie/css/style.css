@@ -77,7 +77,7 @@ section{
     padding:.9rem 3rem;
     border-radius: .5rem;
     color:#fff;
-    background:var(--green);
+    background-color: rgb(133, 39, 39);
     font-size: 1.7rem;
     cursor: pointer;
     font-weight: 500;
